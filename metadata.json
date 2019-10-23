@@ -1,0 +1,60 @@
+{
+    "KPlugin": {
+        "Id": "2ee6e5a7-806b-4a36-bd07-d170dc03ecf1",
+        "Name": "Lakeside by Louis Coyle"
+    },
+    "Wallpaper": {
+        "Preview": "preview.jpg",
+        "Type": "timed",
+        "MetaData": [
+            {
+                "Time": 0.083,
+                "FileName": "dear-1.jpg"
+            },
+            {
+                "Time": 0.167,
+                "FileName": "dear-2.jpg"
+            },
+            {
+                "Time": 0.25,
+                "FileName": "dear-3.jpg"
+            },
+            {
+                "Time": 0.333,
+                "FileName": "dear-4.jpg"
+            },
+            {
+                "Time": 0.417,
+                "FileName": "dear-5.jpg"
+            },
+            {
+                "Time": 0.5,
+                "FileName": "dear-6.jpg"
+            },
+            {
+                "Time": 0.583,
+                "FileName": "dear-7.jpg"
+            },
+            {
+                "Time": 0.667,
+                "FileName": "dear-8.jpg"
+            },
+            {
+                "Time": 0.75,
+                "FileName": "dear-9.jpg"
+            },
+            {
+                "Time": 0.833,
+                "FileName": "dear-10.jpg"
+            },
+            {
+                "Time": 0.917,
+                "FileName": "dear-11.jpg"
+            },
+            {
+                "Time": 1,
+                "FileName": "dear-12.jpg"
+            }
+        ]
+    }
+}
