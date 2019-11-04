@@ -1,5 +1,15 @@
 {
     "KPlugin": {
+        "Authors": [
+            {
+                "Email": "hugo.trsd@gmail.com",
+                "Name": "Hugo Trassoudaine"
+            },
+            {
+                "Email": "vladzzag@gmail.com",
+                "Name": "Vlad Zahorodnii"
+            }
+        ],
         "Id": "2ee6e5a7-806b-4a36-bd07-d170dc03ecf1",
         "Name": "Lakeside by Louis Coyle"
     },
