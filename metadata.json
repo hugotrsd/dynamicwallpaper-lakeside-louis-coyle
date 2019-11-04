@@ -5,6 +5,7 @@
     },
     "Wallpaper": {
         "Preview": "preview.jpg",
+        "Smooth": false,
         "Type": "timed",
         "MetaData": [
             {
